@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">E-notice_board</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="phone">phone</string>
+    <string name="name">Full name</string>
+    <string name="TeacherId">Teacher Id</string>
+    <string name="submit">SUBMIT</string>
+    <string name="registered">already registered? Just Login</string>
+    <string name="forgotpass">Forgot password</string>
+
+    <string-array name="year">
+        <item>SE</item>
+        <item>TE</item>
+        <item>BE</item>
+    </string-array>
+
+    <string-array name="section">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="labs">
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+    </string-array>
+
+    <string-array name="section_upload">
+        <item>none</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="labs_upload">
+        <item>none</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+    </string-array>
+
+</resources>
+
